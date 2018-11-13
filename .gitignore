@@ -1,7 +1,9 @@
+.env
 /node_modules
 bundle.js
 npm-debug.log
 .DS_Store
+package.json
 
 # IntelliJ
 *.iml
